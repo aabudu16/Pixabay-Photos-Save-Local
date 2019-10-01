@@ -25,6 +25,7 @@
 		8532F28B2343B2A2004C0B11 /* favoritePhotosModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8532F28A2343B2A2004C0B11 /* favoritePhotosModel.swift */; };
 		8532F28D2343BAC2004C0B11 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8532F28C2343BAC2004C0B11 /* FavoriteViewController.swift */; };
 		8532F28F2343BAD8004C0B11 /* FavoriteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8532F28E2343BAD8004C0B11 /* FavoriteTableViewCell.swift */; };
+		8532F2912343D505004C0B11 /* FavoriteDetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8532F2902343D505004C0B11 /* FavoriteDetailedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		8532F28A2343B2A2004C0B11 /* favoritePhotosModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favoritePhotosModel.swift; sourceTree = "<group>"; };
 		8532F28C2343BAC2004C0B11 /* FavoriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
 		8532F28E2343BAD8004C0B11 /* FavoriteTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteTableViewCell.swift; sourceTree = "<group>"; };
+		8532F2902343D505004C0B11 /* FavoriteDetailedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteDetailedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				8532F28823439CA3004C0B11 /* PhotosDetailViewController.swift */,
 				8532F28C2343BAC2004C0B11 /* FavoriteViewController.swift */,
 				8532F28E2343BAD8004C0B11 /* FavoriteTableViewCell.swift */,
+				8532F2902343D505004C0B11 /* FavoriteDetailedViewController.swift */,
 			);
 			path = "View Controller";
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				8532F25223438CDE004C0B11 /* AppDelegate.swift in Sources */,
 				8532F28B2343B2A2004C0B11 /* favoritePhotosModel.swift in Sources */,
 				8532F27D23439211004C0B11 /* imageHelper.swift in Sources */,
+				8532F2912343D505004C0B11 /* FavoriteDetailedViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
